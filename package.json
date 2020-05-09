@@ -1,0 +1,35 @@
+{
+    "name": "dark-night-pro",
+    "displayName": "dark night pro",
+    "description": "dark theme for vscode",
+    "icon": "images/logo.png",
+    "version": "1.0.0",
+    "galleryBanner": {
+		"color": "#191925",
+		"theme": "dark"
+	},
+	"publisher": "ErickSosa",
+	"author": {
+		"name": "Erick Sosa",
+		"url": "https://github.com/buttercubz",
+		"email": "ericksosagarcias@gmail.com"
+    },
+    "repository": {
+		"url": "https://github.com/buttercubz/dark-night-pro"
+	},
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark-night-pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-night-pro-color-theme.json"
+            }
+        ]
+    }
+}
