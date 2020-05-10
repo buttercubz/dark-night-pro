@@ -3,20 +3,20 @@
     "displayName": "dark night pro",
     "description": "dark theme for vscode",
     "icon": "images/logo.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "galleryBanner": {
-		"color": "#191925",
-		"theme": "dark"
-	},
-	"publisher": "ErickSosa",
-	"author": {
-		"name": "Erick Sosa",
-		"url": "https://github.com/buttercubz",
-		"email": "ericksosagarcias@gmail.com"
+        "color": "#191925",
+        "theme": "dark"
+    },
+    "publisher": "ErickSosa",
+    "author": {
+        "name": "Erick Sosa",
+        "url": "https://github.com/buttercubz",
+        "email": "ericksosagarcias@gmail.com"
     },
     "repository": {
-		"url": "https://github.com/buttercubz/dark-night-pro"
-	},
+        "url": "https://github.com/buttercubz/dark-night-pro"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
