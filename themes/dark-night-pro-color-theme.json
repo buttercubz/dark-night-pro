@@ -58,7 +58,7 @@
     "activityBar.dropBackground": "#161821bf",
     "activityBar.foreground": "#8c8c99", // items bg color
     "activityBar.border": "#191925",
-    "activityBarBadge.background": "#ec89cb",
+    "activityBarBadge.background": "#5e5cdd",
     "activityBarBadge.foreground": "#181825",
     "sideBar.background": "#181825", // avtiv
     "sideBar.foreground": "#8c8c99", // bg color
@@ -989,7 +989,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#5e5cdd"
+        "foreground": "#7d7cd1"
       }
     },
     {
@@ -1146,19 +1146,19 @@
     {
       "scope": "variable.language.arguments",
       "settings": {
-        "foreground": "#ec89cb"
+        "foreground": "#da70a1"
       }
     },
     {
       "scope": "variable.other.class",
       "settings": {
-        "foreground": "#00dded"
+        "foreground": "#03c8d6"
       }
     },
     {
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#ec89cb"
+        "foreground": "#da70a1"
       }
     },
     {
@@ -1185,7 +1185,7 @@
         "source.ruby variable.other.readwrite.class.ruby"
       ],
       "settings": {
-        "foreground": "#ec89cb"
+        "foreground": "#da70a1"
       }
     },
     {
@@ -1195,7 +1195,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ec89cb"
+        "foreground": "#da70a1"
       }
     },
     {
