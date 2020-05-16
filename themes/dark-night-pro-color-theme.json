@@ -399,7 +399,7 @@
     {
       "scope": "entity.name.class",
       "settings": {
-        "foreground": "#00dded"
+        "foreground": "#cc127e"
       }
     },
     {
