@@ -189,7 +189,7 @@
     "panelTitle.activeBorder": "#985cdd",
     "panelTitle.activeForeground": "#5e5cdd",
     "panelTitle.inactiveForeground": "#6d6d7c",
-    "statusBar.background": "#181825",// status bar bg color
+    "statusBar.background": "#181825", // status bar bg color
     "statusBar.foreground": "#8c8c99",
     "statusBar.border": "#191925",
     "statusBar.debuggingBackground": "#3F3F54",
@@ -280,10 +280,7 @@
       }
     },
     {
-      "scope": [
-        "comment variable",
-        "comment variable.other"
-      ],
+      "scope": ["comment variable", "comment variable.other"],
       "settings": {
         "foreground": "#efdc35"
       }
@@ -321,7 +318,7 @@
     {
       "scope": "constant.other",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#1993cc"
       }
     },
     {
@@ -411,7 +408,7 @@
     {
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#16ac7a" // !
       }
     },
     {
@@ -467,10 +464,7 @@
       }
     },
     {
-      "scope": [
-        "entity.name.function",
-        "support.function"
-      ],
+      "scope": ["entity.name.function", "support.function"],
       "settings": {
         "foreground": "#06c993"
       }
@@ -697,7 +691,7 @@
         "source.json meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary string"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#1a4ddb" // !
       }
     },
     {
@@ -726,7 +720,7 @@
     {
       "scope": "meta.object.member",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#0ec5c5"
       }
     },
     {
@@ -736,10 +730,7 @@
       }
     },
     {
-      "scope": [
-        "entity.name.constant.preprocessor",
-        "meta.preprocessor"
-      ],
+      "scope": ["entity.name.constant.preprocessor", "meta.preprocessor"],
       "settings": {
         "foreground": "#ec89cb"
       }
@@ -787,7 +778,7 @@
         "variable.other.property.js"
       ],
       "settings": {
-        "foreground": "#efdc35"
+        "foreground": "#efdc35" // !
       }
     },
     {
@@ -878,10 +869,7 @@
       }
     },
     {
-      "scope": [
-        "source.scss",
-        "source.sass"
-      ],
+      "scope": ["source.scss", "source.sass"],
       "settings": {
         "foreground": "#6d6d7c"
       }
@@ -1011,10 +999,7 @@
       }
     },
     {
-      "scope": [
-        "string.other.link.title",
-        "string.other.link.description"
-      ],
+      "scope": ["string.other.link.title", "string.other.link.description"],
       "settings": {
         "foreground": "#f60055"
       }
@@ -1035,10 +1020,7 @@
       }
     },
     {
-      "scope": [
-        "string.other.ref",
-        "string.other.restructuredtext.ref"
-      ],
+      "scope": ["string.other.ref", "string.other.restructuredtext.ref"],
       "settings": {
         "foreground": "#06c993"
       }
@@ -1074,10 +1056,7 @@
       }
     },
     {
-      "scope": [
-        "support.type",
-        "entity.name.type.object.console"
-      ],
+      "scope": ["support.type", "entity.name.type.object.console"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#00dded"
@@ -1093,7 +1072,7 @@
       "scope": "support.type.property-name",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#ffffff"
+        "foreground": "#107bc2"
       }
     },
     {
@@ -1115,19 +1094,13 @@
       }
     },
     {
-      "scope": [
-        "variable",
-        "variable.other"
-      ],
+      "scope": ["variable", "variable.other"],
       "settings": {
         "foreground": "#ffffff"
       }
     },
     {
-      "scope": [
-        "variable.parameter",
-        "parameters variable.function"
-      ],
+      "scope": ["variable.parameter", "parameters variable.function"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#f69154"
@@ -1189,10 +1162,7 @@
       }
     },
     {
-      "scope": [
-        "variable.language.this.js",
-        "variable.language.this.js.jsx"
-      ],
+      "scope": ["variable.language.this.js", "variable.language.this.js.jsx"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#da70a1"

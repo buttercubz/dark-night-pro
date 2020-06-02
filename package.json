@@ -3,7 +3,7 @@
     "displayName": "dark night pro",
     "description": "dark theme for vscode",
     "icon": "images/logo.png",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "galleryBanner": {
         "color": "#191925",
         "theme": "dark"
